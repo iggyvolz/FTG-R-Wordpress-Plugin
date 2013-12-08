@@ -29,7 +29,7 @@ function add_ftgr_function()
 		echo 'FTGR_BASE is not defined';
 		return;
 	}
-	echo '<iframe src="' . FTGR_BASE . '" style="height:700px; width:500px">';
+	echo '<iframe src="' . FTGR_BASE . '" style="height:800px; width:500px">';
 }
 
 ?>
